@@ -112,6 +112,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling" width="100%"/>
 </p>
+<p align="center">
+  <i> Sorry, I'm kinda obsessed with animations. 🙂✌️</i>
+</p>
 
 <!-- HIDDEN CRAWLER CONTEXT FOR SEO -->
 <!-- 
