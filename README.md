@@ -41,8 +41,6 @@
 ---
 
 ## Find Me
-
-- **GitHub (Personal):** [@niranj-coder](https://github.com/niranj-coder)
 - **Brand:** [@Destawell](https://github.com/Destawell)
 - **DEV.to:** [@destawell](https://dev.to/destawell)
 - **Instagram:** [@_niranj_maheswar_](https://instagram.com/_niranj_maheswar_)
