@@ -80,7 +80,7 @@
 
 ---
 
-<!-- ANIMATED DIVIDER -->
+ <!-- ANIMATED DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
 </p>
@@ -99,6 +99,9 @@
   </a>
   <a href="https://instagram.com/_niranj_maheswar_">
     <img src="https://img.shields.io/badge/Instagram-@_niranj__maheswar_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/niranj-r-mahaswar-0949883b3">
+    <img src="https://img.shields.io/badge/LinkedIn-Niranj%20R%20Mahaswar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
